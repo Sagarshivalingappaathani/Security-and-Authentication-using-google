@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 2. **Change Directory:**
 
    ```
-   cd yourproject
+   cd Security-and-Authentication-using-google-Project4
    ```
 3. **Install project dependencies:**
 
