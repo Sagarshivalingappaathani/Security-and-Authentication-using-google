@@ -1,4 +1,4 @@
-# The Fortified Authentication Fortress
+# Security and Authentication using Google
 
 ## Elevate Security with Hashing and Salting
 
