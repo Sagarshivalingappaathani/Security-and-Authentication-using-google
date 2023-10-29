@@ -64,13 +64,6 @@ Before you begin, ensure you have met the following requirements:
 - MongoDB database for storing user data
 - User secrets submission and viewing
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
-
-## Acknowledgments
-
-- Thanks to the creators of Express.js, Passport.js, and Mongoose for their fantastic libraries.
 - Inspiration for this project comes from various online tutorials and documentation.
 
 
