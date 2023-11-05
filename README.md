@@ -1,8 +1,9 @@
 # Security and Authentication using Google
 
-## Elevate Security with Hashing and Salting
+## Project Description
 
-Welcome to our Authentication Project, a bastion of secure user authentication powered by Express.js, Passport.js, and MongoDB. Fortified with hashing and salting techniques, this Node.js masterpiece ensures your online safety. Whether you prefer traditional local authentication (username/password) or the effortless charm of Google OAuth2.0, this project is your gateway to a secure, hassle-free, and unbreakable login experience.
+- Welcome to our Authentication Project, This project is a simple project where a user can login or register to the website and he/she can share his secrets to others and a user can see the other users secrets(not like passwords ...just funny sercrets) and users will not get to know about who's secret it is  
+- But the major part of this project is a makeing a secure user authentication powered by Express.js, Passport.js, and MongoDB. Fortified with hashing and salting techniques, this Node.js masterpiece ensures your online safety. Whether you prefer traditional local authentication (username/password) or the effortless charm of Google OAuth2.0, this project is your gateway to a secure, hassle-free, and unbreakable login experience.
 
 ### Features at a Glance
 
@@ -56,13 +57,7 @@ Before you begin, ensure you have met the following requirements:
 2. You can register a new account or log in using your Google account.
 3. Once logged in, you can submit and view secrets.
 
-## Features
 
-- User registration and login with local authentication (username/password)
-- User login with Google OAuth2.0
-- User sessions managed with Express-session
-- MongoDB database for storing user data
-- User secrets submission and viewing
 
 - Inspiration for this project comes from various online tutorials and documentation.
 
